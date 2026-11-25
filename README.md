@@ -19,3 +19,8 @@ Se instala en el ordenador de la oficina; las tablets y móviles se conectan por
 Facturación, presupuestos, gastos e impuestos para autónomos y pymes.
 - **Windows:** [descargar](https://github.com/saramm1999-creator/saasophy-descargas/releases/latest/download/SaaSophy-Gestion-Windows.exe)
 - **Mac** (chip Apple e Intel): [descargar](https://github.com/saramm1999-creator/saasophy-descargas/releases/latest/download/SaaSophy-Gestion-Mac.dmg)
+
+## SaaSophy Dental · Estética · Peluquería
+Un mismo instalador para los tres: tu licencia prepara el programa para tu tipo de centro. Se instala en el ordenador de recepción; las tablets y móviles del equipo se conectan por el Wi-Fi del centro.
+- **Windows:** [descargar](https://github.com/saramm1999-creator/saasophy-descargas/releases/latest/download/SaaSophy-Centros-Windows.exe)
+- **Mac** (chip Apple e Intel): [descargar](https://github.com/saramm1999-creator/saasophy-descargas/releases/latest/download/SaaSophy-Centros-Mac.dmg)
