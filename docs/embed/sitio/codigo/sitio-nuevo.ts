@@ -5,6 +5,7 @@ import { SITIO_CABECERA, SITIO_NUEVO, SITIO_PIE } from "./sitio-nuevo.generated.
 
 export const SITIO_NUEVO_CLASS = "ssy-nuevo";
 const TITULOS: Record<string, { title: string; description: string }> = {
+  "/automatizaciones/concesionarios-y-compraventas": { title: "Automatizaciones para concesionarios y compraventas | SaaSophy", description: "Mesa de compra para subastas de coches: puja máxima y margen neto calculados, avisos por WhatsApp y seguimiento de ventas. Demo gratis." },
   "/programa": {
     title: "Automatiza y Vende | Saasophy",
     description: "Automatiza y Vende: 4 semanas de clases en directo con Sara que quedan grabadas y ayuda para conseguir tus primeros clientes. 135 € IVA incluido.",

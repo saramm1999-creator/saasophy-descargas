@@ -25,6 +25,10 @@ cambiar(R + "App.tsx", [
   ["const RefProgramas = lazy(", "const RefCursoNuevo = lazy(() => import('@/public-reference/PublicReferencePage').then((m) => ({ default: m.makeReferenceRoute('/programa') })));\nconst RefProgramas = lazy("],
   ['<Route path="/programa" component={EvergreenCourse} />', '<Route path="/programa" component={RefCursoNuevo} />'],
 ]);
+cambiar("artifacts/api-server/src/lib/public-reference-meta.ts", [
+  ['    ["talleres-de-automocion", "talleres de automoción", "Aprovecha los huecos del taller y reduce llamadas de recogida."],\n',
+   '    ["talleres-de-automocion", "talleres de automoción", "Aprovecha los huecos del taller y reduce llamadas de recogida."],\n    ["concesionarios-y-compraventas", "concesionarios y compraventas", "Mesa de compra para subastas de coches: puja máxima y margen neto calculados y avisos por WhatsApp."],\n'],
+]);
 cambiar("artifacts/api-server/src/app.ts", [
   ['<div class="${`sref ${referencePage.bodyClass}`.trim()}" data-prerendered="reference">',
    '<div class="${referencePage.bodyClass === "ssy-nuevo" ? "ssy-nuevo" : `sref ${referencePage.bodyClass}`.trim()}" data-prerendered="reference">'],
