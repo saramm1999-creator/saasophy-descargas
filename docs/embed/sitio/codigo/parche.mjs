@@ -24,8 +24,8 @@ cambiar(R + "App.tsx", [
   ['<Route path="/programa" component={EvergreenCourse} />', '<Route path="/programa" component={RefCursoNuevo} />'],
 ]);
 cambiar("artifacts/api-server/src/app.ts", [
-  ['const wrapper = `<div class="${`sref ${referencePage.bodyClass}`.trim()}" data-prerendered="reference">',
-   'const wrapper = `<div class="${referencePage.bodyClass === "ssy-nuevo" ? "ssy-nuevo" : `sref ${referencePage.bodyClass}`.trim()}" data-prerendered="reference">'],
+  ['<div class="${`sref ${referencePage.bodyClass}`.trim()}" data-prerendered="reference">',
+   '<div class="${referencePage.bodyClass === "ssy-nuevo" ? "ssy-nuevo" : `sref ${referencePage.bodyClass}`.trim()}" data-prerendered="reference">'],
   ['routePath === "/" || routePath === "/automatizaciones" || routePath === "/tienda" || routePath === "/programas"\n',
    'routePath === "/" || routePath === "/automatizaciones" || routePath === "/tienda" || routePath === "/programas" || routePath === "/programa"\n'],
 ]);
