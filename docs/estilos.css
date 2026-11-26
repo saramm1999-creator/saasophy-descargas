@@ -20,6 +20,7 @@ nav a{margin-left:16px;text-decoration:none;color:var(--s);font-weight:600;font-
 .aviso{border-left:4px solid #f59e0b}.ok{border-left:4px solid #16a34a}code{background:var(--b);padding:1px 6px;border-radius:6px}
 footer{border-top:1px solid var(--b);padding:26px 0;color:var(--tn);font-size:13px;text-align:center}
 
+.ic{flex:none;vertical-align:middle}.sellos .ic{color:#2563eb}.flota .ic{color:#16a34a;vertical-align:-2px}.tag .ic{vertical-align:-2px}
 .hero2{position:relative;overflow:hidden;padding:64px 0 40px;background:radial-gradient(1200px 500px at 10% -10%,#c7d2fe 0,transparent 60%),radial-gradient(900px 500px at 100% 0,#fbcfe8 0,transparent 55%),radial-gradient(800px 500px at 50% 120%,#bae6fd 0,transparent 60%)}
 @media (prefers-color-scheme:dark){.hero2{background:radial-gradient(1200px 500px at 10% -10%,#1e1b4b 0,transparent 60%),radial-gradient(900px 500px at 100% 0,#4a044e 0,transparent 55%),radial-gradient(800px 500px at 50% 120%,#082f49 0,transparent 60%)}}
 .hero2 .c{display:grid;grid-template-columns:1.05fr 1fr;gap:40px;align-items:center}
@@ -28,7 +29,7 @@ footer{border-top:1px solid var(--b);padding:26px 0;color:var(--tn);font-size:13
 .hero2 p.sub{font-size:19px;color:var(--s);margin:0 0 22px;max-width:560px}
 .cta{display:flex;gap:10px;flex-wrap:wrap}.cta .btn{padding:14px 20px;font-size:16px}
 .btn.g{background:linear-gradient(90deg,#2563eb,#7c3aed);color:#fff;box-shadow:0 10px 30px -10px #7c3aed}
-.sellos{display:flex;flex-wrap:wrap;gap:8px;margin-top:22px}.sellos span{background:var(--p);border:1px solid var(--b);border-radius:99px;padding:6px 12px;font-size:13px;font-weight:700}
+.sellos{display:flex;flex-wrap:wrap;gap:8px;margin-top:22px}.sellos span{display:inline-flex;align-items:center;gap:6px;background:var(--p);border:1px solid var(--b);border-radius:99px;padding:6px 12px;font-size:13px;font-weight:700}
 .ventana{background:var(--p);border:1px solid var(--b);border-radius:16px;box-shadow:0 30px 80px -30px rgba(15,23,42,.45);overflow:hidden;transform:perspective(1400px) rotateY(-8deg) rotateX(3deg)}
 .ventana .barra{display:flex;gap:6px;padding:10px 12px;border-bottom:1px solid var(--b);background:var(--f)}.ventana .barra i{width:11px;height:11px;border-radius:50%;background:#f87171}.ventana .barra i:nth-child(2){background:#fbbf24}.ventana .barra i:nth-child(3){background:#34d399}
 .ventana img{display:block;width:100%}
@@ -40,13 +41,13 @@ footer{border-top:1px solid var(--b);padding:26px 0;color:var(--tn);font-size:13
 .mosaico{display:flex;flex-wrap:wrap;justify-content:center;gap:12px}.mosaico .tesela{width:172px}
 .tesela{--c1:#2563eb;--c2:#7c3aed;display:flex;flex-direction:column;align-items:flex-start;gap:4px;padding:16px;border-radius:18px;text-decoration:none;color:#fff;background:linear-gradient(135deg,var(--c1),var(--c2));box-shadow:0 12px 30px -16px var(--c1);transition:transform .15s,box-shadow .15s;min-height:128px;position:relative;overflow:hidden}
 .tesela:hover{transform:translateY(-4px) scale(1.02);box-shadow:0 20px 40px -16px var(--c1)}
-.tesela .ico{font-size:34px;line-height:1;filter:drop-shadow(0 4px 8px rgba(0,0,0,.2))}.tesela b{font-size:15px}.tesela small{opacity:.9;font-weight:600}
+.tesela .ico{display:grid;place-items:center;width:46px;height:46px;border-radius:14px;background:rgba(255,255,255,.22)}.tesela b{font-size:15px}.tesela small{opacity:.9;font-weight:600}
 .tesela .nuevo{position:absolute;top:10px;right:10px;background:#fff;color:var(--c1);font-size:10px;font-weight:800;border-radius:99px;padding:2px 8px}
 .grupo-t{font-size:13px;text-transform:uppercase;letter-spacing:.08em;color:var(--tn);font-weight:800;margin:40px 0 4px}
 .prod{--c1:#2563eb;--c2:#7c3aed;display:grid;grid-template-columns:1fr 1fr;gap:34px;align-items:center;padding:40px 0;border-bottom:1px solid var(--b)}
 .prod:nth-of-type(even) .lienzo{order:2}
 .lienzo{border-radius:24px;padding:26px;background:linear-gradient(135deg,var(--c1),var(--c2));position:relative;min-height:300px;display:grid;place-items:center;box-shadow:0 30px 60px -30px var(--c1)}
-.lienzo .grande{position:absolute;right:18px;top:10px;font-size:64px;opacity:.25}
+.lienzo .grande{position:absolute;right:16px;top:12px;color:#fff;opacity:.3;line-height:0}
 .app{width:100%;max-width:440px;background:#fff;color:#0f172a;border-radius:14px;box-shadow:0 24px 50px -20px rgba(0,0,0,.45);overflow:hidden;font-size:12px}
 .app .tb{display:flex;align-items:center;gap:6px;padding:8px 10px;background:#f1f5f9;border-bottom:1px solid #e2e8f0;font-weight:700}.app .tb i{width:8px;height:8px;border-radius:50%;background:#cbd5e1}.app .tb span{margin-left:6px;color:#475569}
 .app .cu{padding:12px}
