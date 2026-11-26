@@ -1,0 +1,19 @@
+{
+  "version": "1.0.1",
+  "notes": "Actualizaciones automáticas: a partir de ahora el programa se actualiza solo.",
+  "pub_date": "2026-11-26T09:57:28Z",
+  "platforms": {
+    "darwin-aarch64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTdCtPeHRsZkZOai9URWZweThhUXR5QU1ZcnNma0pYcFBDeDRNUWhnakFTU3cvWFZvWUNaSEdiaXZGZXBqL0RBMDEyNm9oY0NBZi9WdE8rWEN4cit6L1FsajA3akVQWFFrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1Njg3MDQ0CWZpbGU6U2FhU29waHktVGFsbGVyLTEuMC4xLU1hYy1hY3R1YWxpemFjaW9uLmFwcC50YXIuZ3oKN1hhZkQyeWhqYk9OeU96dzJVUzhxeU1kNTBpNmgvckZBR1VpSlAzTUFPTDdjOHBUTEJRVVBBUlo0a3pHWnJzZDJkd3cwN21BS2g5SDVzZS9Cb0JXQ3c9PQo=",
+      "url": "https://github.com/saramm1999-creator/saasophy-descargas/releases/download/v1.0.1/SaaSophy-Taller-1.0.1-Mac-actualizacion.app.tar.gz"
+    },
+    "darwin-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTdCtPeHRsZkZOai9URWZweThhUXR5QU1ZcnNma0pYcFBDeDRNUWhnakFTU3cvWFZvWUNaSEdiaXZGZXBqL0RBMDEyNm9oY0NBZi9WdE8rWEN4cit6L1FsajA3akVQWFFrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1Njg3MDQ0CWZpbGU6U2FhU29waHktVGFsbGVyLTEuMC4xLU1hYy1hY3R1YWxpemFjaW9uLmFwcC50YXIuZ3oKN1hhZkQyeWhqYk9OeU96dzJVUzhxeU1kNTBpNmgvckZBR1VpSlAzTUFPTDdjOHBUTEJRVVBBUlo0a3pHWnJzZDJkd3cwN21BS2g5SDVzZS9Cb0JXQ3c9PQo=",
+      "url": "https://github.com/saramm1999-creator/saasophy-descargas/releases/download/v1.0.1/SaaSophy-Taller-1.0.1-Mac-actualizacion.app.tar.gz"
+    },
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTdCtPeHRsZkZOajdCQ1IxYldkNE1uV1RZL1ZET1g0OGZKMTVjVG1Kc0tpWWMwSDBCd2RGV09OT1RObk5INEQwVFphWDZTdFJsdCtDUXRFL1g1eDVEeFNSMDJPN1p0cndRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1Njg3MDQ0CWZpbGU6U2FhU29waHktVGFsbGVyLTEuMC4xLVdpbmRvd3MtYWN0dWFsaXphY2lvbi5leGUKenlsUG0rRTloYm4wV3BrYm5kSTZJRXBPSkhEa21QVHdMbzJINmhWSStiS1lOcFdLamFUYWs3OFhRWTJhVDNZTXRPUjZvMGR0MXlVOGhleFVkYkVKRHc9PQo=",
+      "url": "https://github.com/saramm1999-creator/saasophy-descargas/releases/download/v1.0.1/SaaSophy-Taller-1.0.1-Windows-actualizacion.exe"
+    }
+  }
+}
