@@ -1,19 +1,19 @@
 {
-  "version": "1.0.1",
-  "notes": "Actualizaciones automáticas: a partir de ahora el programa se actualiza solo.",
-  "pub_date": "2026-11-26T09:58:02Z",
+  "version": "1.0.2",
+  "notes": "Mejoras: nueva página de ayuda.",
+  "pub_date": "2026-11-26T12:08:16Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTdCtPeHRsZkZOanh1R1VxRk5QUHNrMHY4SkJ0YXpkOGN6TG1aejBmNEticlZrMGJlY0kxNEMzaTN6NWVKN01zc0paUm8rTld0L2IrNUFYODVCVkFuUVJqYVdFTllsV1FRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1Njg3MDc4CWZpbGU6U2FhU29waHktUHJlc3VwdWVzdG9zLTEuMC4xLU1hYy1hY3R1YWxpemFjaW9uLmFwcC50YXIuZ3oKWlRTV1BoMGsyQWJPejdpQUhYR3BzK3FoWE1LWjU2R3BjNCtxbXUycWFtWHBBT1lucy9udys5SCtST1lyaHpvcWtPeS9hZENtbWpuRHR6L2oyRHNsRFE9PQo=",
-      "url": "https://github.com/saramm1999-creator/saasophy-descargas/releases/download/v1.0.1/SaaSophy-Presupuestos-1.0.1-Mac-actualizacion.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTdCtPeHRsZkZOajcvOWR0NVZ5a0lYMGdKT2RoUCs2UmdzRU1vSllNWGUyUURGWW9FWGdTZHF3Nmh3SlhRVXBmUlptbGNIU2VVUDljaG9nWVc5S2VSTnhISlBmS3N6Z1FNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1Njk0ODkyCWZpbGU6U2FhU29waHktUHJlc3VwdWVzdG9zLTEuMC4yLU1hYy1hY3R1YWxpemFjaW9uLmFwcC50YXIuZ3oKUUsraTdWbUZTV3hodjdqYmdTOW5VNGJBWkVET2J6S3h2ZEs4dmN0VXpIOFVvdWg1L1h5cit3dnRwWUFpUW8wRnVnZCt5ek5wa2VRWUowUVYvR2RxQVE9PQo=",
+      "url": "https://github.com/saramm1999-creator/saasophy-descargas/releases/download/v1.0.1/SaaSophy-Presupuestos-1.0.2-Mac-actualizacion.app.tar.gz"
     },
     "darwin-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTdCtPeHRsZkZOanh1R1VxRk5QUHNrMHY4SkJ0YXpkOGN6TG1aejBmNEticlZrMGJlY0kxNEMzaTN6NWVKN01zc0paUm8rTld0L2IrNUFYODVCVkFuUVJqYVdFTllsV1FRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1Njg3MDc4CWZpbGU6U2FhU29waHktUHJlc3VwdWVzdG9zLTEuMC4xLU1hYy1hY3R1YWxpemFjaW9uLmFwcC50YXIuZ3oKWlRTV1BoMGsyQWJPejdpQUhYR3BzK3FoWE1LWjU2R3BjNCtxbXUycWFtWHBBT1lucy9udys5SCtST1lyaHpvcWtPeS9hZENtbWpuRHR6L2oyRHNsRFE9PQo=",
-      "url": "https://github.com/saramm1999-creator/saasophy-descargas/releases/download/v1.0.1/SaaSophy-Presupuestos-1.0.1-Mac-actualizacion.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTdCtPeHRsZkZOajcvOWR0NVZ5a0lYMGdKT2RoUCs2UmdzRU1vSllNWGUyUURGWW9FWGdTZHF3Nmh3SlhRVXBmUlptbGNIU2VVUDljaG9nWVc5S2VSTnhISlBmS3N6Z1FNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1Njk0ODkyCWZpbGU6U2FhU29waHktUHJlc3VwdWVzdG9zLTEuMC4yLU1hYy1hY3R1YWxpemFjaW9uLmFwcC50YXIuZ3oKUUsraTdWbUZTV3hodjdqYmdTOW5VNGJBWkVET2J6S3h2ZEs4dmN0VXpIOFVvdWg1L1h5cit3dnRwWUFpUW8wRnVnZCt5ek5wa2VRWUowUVYvR2RxQVE9PQo=",
+      "url": "https://github.com/saramm1999-creator/saasophy-descargas/releases/download/v1.0.1/SaaSophy-Presupuestos-1.0.2-Mac-actualizacion.app.tar.gz"
     },
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTdCtPeHRsZkZOajNRZFFiMTFWbit5YzBGVHpzenJiTTUwREJoVXJmU214TlY5MTdsYjBGZ2tSMWUxT1QxUTN3aGtUV1gxZHJqanBYa0l1ZUhzZ01yWGVQaGFmOUovNkFJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1Njg3MDc4CWZpbGU6U2FhU29waHktUHJlc3VwdWVzdG9zLTEuMC4xLVdpbmRvd3MtYWN0dWFsaXphY2lvbi5leGUKck9YbUg0a1h1aFdkWXRTMCtXam5YTDRPNU1DOWFrM3NlLytrbzVsSW9sLzNhYkxvZ2poNHo5Vmd0a1FDYms1ekZiSXNLc0RnTSsvbWtzamJxNEM5QUE9PQo=",
-      "url": "https://github.com/saramm1999-creator/saasophy-descargas/releases/download/v1.0.1/SaaSophy-Presupuestos-1.0.1-Windows-actualizacion.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTdCtPeHRsZkZOajNEMlV5MDlRK25UTXFMVjlTdTZVQ2lKSDE4ZGd0MHVHZVE4RW1KNHhEK2EvRnc0WnViTHZtZ3RiRmdBcXY1b3p0eTZzSjhzUVdFaTB4ekVidjRkS0FnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1Njk0ODkyCWZpbGU6U2FhU29waHktUHJlc3VwdWVzdG9zLTEuMC4yLVdpbmRvd3MtYWN0dWFsaXphY2lvbi5leGUKRFNaZDZTNVdhRFNuZnVlby9tc0llTVdjeTFhMjZBOVFKaXZyNVJuQ2pQUHJDNkJPUk4xSUNTMzN2cU1nQWJDNVppa2lYVHVGL2xqTU5HUVJjT1NFQXc9PQo=",
+      "url": "https://github.com/saramm1999-creator/saasophy-descargas/releases/download/v1.0.1/SaaSophy-Presupuestos-1.0.2-Windows-actualizacion.exe"
     }
   }
 }
