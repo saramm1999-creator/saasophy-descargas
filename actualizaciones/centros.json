@@ -1,0 +1,19 @@
+{
+  "version": "1.0.1",
+  "notes": "Actualizaciones automáticas: a partir de ahora el programa se actualiza solo.",
+  "pub_date": "2026-11-26T09:58:12Z",
+  "platforms": {
+    "darwin-aarch64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTdCtPeHRsZkZOajFKcG5hNCttU2lxSHkvcG5yUk9TaURGTVNtRWRHK0FDMUtndkp4bmc3YmwrbmdmcE1OYXJtQVBpamtGRWhFZEhNZ0FIRHJ0ZmY3YkJtNnZyNnd1bWdNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1Njg3MDg4CWZpbGU6U2FhU29waHktQ2VudHJvcy0xLjAuMS1NYWMtYWN0dWFsaXphY2lvbi5hcHAudGFyLmd6Ck55STZ0MGRMOS94NmNBTURldmhmN0VXakRXTm41MXFzZGdGZGN3T213aEN2VkZvOGFlSENwZ2xGVEd4ZkE3NWhYaS9taGpnN1krcE1kSi9GaEZwV0JRPT0K",
+      "url": "https://github.com/saramm1999-creator/saasophy-descargas/releases/download/v1.0.1/SaaSophy-Centros-1.0.1-Mac-actualizacion.app.tar.gz"
+    },
+    "darwin-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTdCtPeHRsZkZOajFKcG5hNCttU2lxSHkvcG5yUk9TaURGTVNtRWRHK0FDMUtndkp4bmc3YmwrbmdmcE1OYXJtQVBpamtGRWhFZEhNZ0FIRHJ0ZmY3YkJtNnZyNnd1bWdNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1Njg3MDg4CWZpbGU6U2FhU29waHktQ2VudHJvcy0xLjAuMS1NYWMtYWN0dWFsaXphY2lvbi5hcHAudGFyLmd6Ck55STZ0MGRMOS94NmNBTURldmhmN0VXakRXTm41MXFzZGdGZGN3T213aEN2VkZvOGFlSENwZ2xGVEd4ZkE3NWhYaS9taGpnN1krcE1kSi9GaEZwV0JRPT0K",
+      "url": "https://github.com/saramm1999-creator/saasophy-descargas/releases/download/v1.0.1/SaaSophy-Centros-1.0.1-Mac-actualizacion.app.tar.gz"
+    },
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTdCtPeHRsZkZOai9WUTBFOVg4QXpKVC9wdHNNNkswYmZVVFM1SnptT1ZvMDhQRENpMWJvU3ZjcHI5bTQ3cGN1NGhVVUpXM0hlU1RvQU5VQTZjK2J4SHhFOTYyZ2FIWWc0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1Njg3MDg4CWZpbGU6U2FhU29waHktQ2VudHJvcy0xLjAuMS1XaW5kb3dzLWFjdHVhbGl6YWNpb24uZXhlCnBaYTlXanJkVXVyZnlIYU1VMVYyVHUyRlRmS2V4RU81MUQzaU9Nek1Tb1IvdGJ0R3MyekZ5VERlQzhkTUdkSGQraXQzbWZBT1FRZS9jRWlxZWRVQUFRPT0K",
+      "url": "https://github.com/saramm1999-creator/saasophy-descargas/releases/download/v1.0.1/SaaSophy-Centros-1.0.1-Windows-actualizacion.exe"
+    }
+  }
+}
