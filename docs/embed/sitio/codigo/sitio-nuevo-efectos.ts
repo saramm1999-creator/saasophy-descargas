@@ -30,6 +30,13 @@ export function activarEfectos(root: HTMLElement): () => void {
     const f = () => {
       const t = root.querySelector<HTMLTextAreaElement>('#request-form textarea[name="task"]');
       if (t) { t.value = b.dataset.rellenar ?? ""; setTimeout(() => root.querySelector<HTMLInputElement>('#request-form input[name="name"]')?.focus(), 300); }
+      const bloque = root.querySelector<HTMLElement>("#solicitar");
+      const titulo = bloque?.querySelector("h2");
+      const boton = bloque?.querySelector<HTMLButtonElement>('#request-form button[type="submit"]');
+      const eti = bloque?.querySelector<HTMLElement>(".eti");
+      if (b.dataset.titulo && titulo) titulo.textContent = b.dataset.titulo;
+      if (b.dataset.boton && boton) boton.textContent = b.dataset.boton;
+      if (b.dataset.titulo && eti) eti.textContent = "Compra por transferencia";
     };
     b.addEventListener("click", f);
     limpiar.push(() => b.removeEventListener("click", f));
