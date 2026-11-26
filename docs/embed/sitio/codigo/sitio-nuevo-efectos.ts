@@ -25,6 +25,16 @@ export function activarEfectos(root: HTMLElement): () => void {
     pintar();
   });
 
+  // Botones que rellenan el formulario de abajo (p. ej. «Comprar por transferencia»).
+  root.querySelectorAll<HTMLElement>("[data-rellenar]").forEach((b) => {
+    const f = () => {
+      const t = root.querySelector<HTMLTextAreaElement>('#request-form textarea[name="task"]');
+      if (t) { t.value = b.dataset.rellenar ?? ""; setTimeout(() => root.querySelector<HTMLInputElement>('#request-form input[name="name"]')?.focus(), 300); }
+    };
+    b.addEventListener("click", f);
+    limpiar.push(() => b.removeEventListener("click", f));
+  });
+
   const fin = () => { tiempos.forEach((t) => clearTimeout(t)); limpiar.forEach((f) => f()); };
   if (matchMedia("(prefers-reduced-motion: reduce)").matches || !("IntersectionObserver" in window)) return fin;
 

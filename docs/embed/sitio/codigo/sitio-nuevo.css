@@ -137,7 +137,7 @@
 .ssy-web .proc .cab{display:flex;gap:12px;align-items:center}.ssy-web .proc .num{display:grid;place-items:center;width:42px;height:42px;border-radius:13px;color:#fff;font-weight:900;background:linear-gradient(135deg,var(--c1),var(--c2));flex:none}
 .ssy-web .proc p{margin:0;color:var(--s)}.ssy-web .proc .reduce{display:flex;gap:8px;color:var(--t);font-weight:700}.ssy-web .proc .reduce .ic{color:#16a34a;flex:none;margin-top:3px}
 .ssy-web .proc .esc{background:var(--f);border-radius:14px;padding:12px 14px;display:grid;gap:4px;font-size:14px}.ssy-web .proc .esc b{color:var(--t)}
-.ssy-web .volver{display:inline-flex;gap:6px;align-items:center;font-weight:800;text-decoration:none;font-size:14px}
+.ssy-web .pasos-compra{margin:0;padding-left:20px;display:grid;gap:6px;color:var(--s)}.ssy-web .volver{display:inline-flex;gap:6px;align-items:center;font-weight:800;text-decoration:none;font-size:14px}
 .js .ssy-web .anim{opacity:0;transform:translateY(18px);transition:opacity .6s ease,transform .6s ease}.js .ssy-web .anim.ver{opacity:1;transform:none}
 .js .ssy-web .chat-vivo .burb,.js .ssy-web .chat-vivo .pill{opacity:0;transform:translateY(8px) scale(.98);transition:opacity .35s,transform .35s}.js .ssy-web .chat-vivo .burb.ver,.js .ssy-web .chat-vivo .pill.ver{opacity:1;transform:none}
 .ssy-web .escribiendo{display:none;width:52px;padding:10px 12px;border-radius:14px;background:#f1f5f9;gap:4px}.ssy-web .escribiendo i{width:6px;height:6px;border-radius:50%;background:#94a3b8;animation:ssypunto 1s infinite}
