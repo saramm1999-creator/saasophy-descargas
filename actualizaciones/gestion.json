@@ -1,19 +1,19 @@
 {
-  "version": "1.0.1",
-  "notes": "Actualizaciones automáticas: a partir de ahora el programa se actualiza solo.",
-  "pub_date": "2026-11-26T09:57:42Z",
+  "version": "1.0.2",
+  "notes": "VERI*FACTU: tus facturas se envían solas a Hacienda y llevan el código QR (actívalo en Ajustes → Hacienda).",
+  "pub_date": "2026-11-26T10:43:48Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTdCtPeHRsZkZOais4N0xhMFA3bUVNZ1FYNnNVWm9WR0tOWnMxN3k1NnIzVlpES1RPVFM3SkFjSWRBNnVlZ1hwakprQlJLaEVGL3k1OFU4cDhJOVgyUjdzdlhmU3Nma2d3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1Njg3MDU4CWZpbGU6U2FhU29waHktR2VzdGlvbi0xLjAuMS1NYWMtYWN0dWFsaXphY2lvbi5hcHAudGFyLmd6CkJxM25ZMktuVjVCZG5aWExUbXh2d3gwSUZzQVdtbTBJQStrWGJmcHN5S01qVkxqMUVTU3RKcE03ODRNMEJpTWUzQi9nQS9qYlVtczkvRzZIeXE3TEFRPT0K",
-      "url": "https://github.com/saramm1999-creator/saasophy-descargas/releases/download/v1.0.1/SaaSophy-Gestion-1.0.1-Mac-actualizacion.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTdCtPeHRsZkZOajlubGt6WkltS2hzQWlYZ2ljR1dwUjVZNndzMFN0ZmZoSUxQeHdVeFZuaHNETktlUTVMVjFLajRPcnh3M2oyc0J5TUpQZUROcGMrcnhDMGxWczRDT1FnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1Njg5ODI0CWZpbGU6U2FhU29waHktR2VzdGlvbi0xLjAuMi1NYWMtYWN0dWFsaXphY2lvbi5hcHAudGFyLmd6CjlLdk5RSGg5RXloM2FmK29CdXl5OUx4cFJtS0djNE9FV0ZEOENBSFozdTB1VXlMTG4vdVVFUUhSb0hiSk9WVEdFREYyd3pPYlJ5Qk1BMDJSWW1pWkJnPT0K",
+      "url": "https://github.com/saramm1999-creator/saasophy-descargas/releases/download/v1.0.1/SaaSophy-Gestion-1.0.2-Mac-actualizacion.app.tar.gz"
     },
     "darwin-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTdCtPeHRsZkZOais4N0xhMFA3bUVNZ1FYNnNVWm9WR0tOWnMxN3k1NnIzVlpES1RPVFM3SkFjSWRBNnVlZ1hwakprQlJLaEVGL3k1OFU4cDhJOVgyUjdzdlhmU3Nma2d3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1Njg3MDU4CWZpbGU6U2FhU29waHktR2VzdGlvbi0xLjAuMS1NYWMtYWN0dWFsaXphY2lvbi5hcHAudGFyLmd6CkJxM25ZMktuVjVCZG5aWExUbXh2d3gwSUZzQVdtbTBJQStrWGJmcHN5S01qVkxqMUVTU3RKcE03ODRNMEJpTWUzQi9nQS9qYlVtczkvRzZIeXE3TEFRPT0K",
-      "url": "https://github.com/saramm1999-creator/saasophy-descargas/releases/download/v1.0.1/SaaSophy-Gestion-1.0.1-Mac-actualizacion.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTdCtPeHRsZkZOajlubGt6WkltS2hzQWlYZ2ljR1dwUjVZNndzMFN0ZmZoSUxQeHdVeFZuaHNETktlUTVMVjFLajRPcnh3M2oyc0J5TUpQZUROcGMrcnhDMGxWczRDT1FnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1Njg5ODI0CWZpbGU6U2FhU29waHktR2VzdGlvbi0xLjAuMi1NYWMtYWN0dWFsaXphY2lvbi5hcHAudGFyLmd6CjlLdk5RSGg5RXloM2FmK29CdXl5OUx4cFJtS0djNE9FV0ZEOENBSFozdTB1VXlMTG4vdVVFUUhSb0hiSk9WVEdFREYyd3pPYlJ5Qk1BMDJSWW1pWkJnPT0K",
+      "url": "https://github.com/saramm1999-creator/saasophy-descargas/releases/download/v1.0.1/SaaSophy-Gestion-1.0.2-Mac-actualizacion.app.tar.gz"
     },
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTdCtPeHRsZkZOajlJaDVlUjdLQXNhd2V5YjJxZ2V2TjhwemJZRmVLS084TjAwcm1HTGI1c0lRYVRTTzhHVmQ3d2JkZFlHSEVmcE9SM3NmZXhKUThhUnRLSzJNNDdEb2dBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1Njg3MDU4CWZpbGU6U2FhU29waHktR2VzdGlvbi0xLjAuMS1XaW5kb3dzLWFjdHVhbGl6YWNpb24uZXhlCmRQVEJrSWRWTnNlUVQ4MDV2a25oVklvNzRlakx1ZlgrZ25xbkRoSENkVDlaaVBYT3N0RnFIKzYzaHd2UzBZc2JyVEtRSG9lRjJuVExjaWVIR25xWEJBPT0K",
-      "url": "https://github.com/saramm1999-creator/saasophy-descargas/releases/download/v1.0.1/SaaSophy-Gestion-1.0.1-Windows-actualizacion.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTdCtPeHRsZkZOajN0d0NnZkNBTjZ4VHJaaUYxdUpmcXFJVEo3aU83dlc1K3NJaHJEeHpaak8xbWRQcW5OeHV2ZGpiRTZPeVNlZmlpeDNMT093YUVDVzR3bXcwQ2VUUmdnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1Njg5ODIzCWZpbGU6U2FhU29waHktR2VzdGlvbi0xLjAuMi1XaW5kb3dzLWFjdHVhbGl6YWNpb24uZXhlCjFlR0lNaHVIOGlXTzQxOHlkaE54enQ5V3BjSU1hdnR2MUY3NnE3WGNuYTR5R2VkemZHdGM2eWNFWkYyVGdqZGNLdm5UK3g4NFFBRFNUSTloRkhLS0NnPT0K",
+      "url": "https://github.com/saramm1999-creator/saasophy-descargas/releases/download/v1.0.1/SaaSophy-Gestion-1.0.2-Windows-actualizacion.exe"
     }
   }
 }
