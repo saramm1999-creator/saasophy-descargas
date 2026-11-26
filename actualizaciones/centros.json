@@ -1,19 +1,19 @@
 {
-  "version": "1.0.1",
-  "notes": "Actualizaciones automáticas: a partir de ahora el programa se actualiza solo.",
-  "pub_date": "2026-11-26T09:58:12Z",
+  "version": "1.0.2",
+  "notes": "Prueba del sistema de actualizaciones.",
+  "pub_date": "2026-11-26T09:58:47Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTdCtPeHRsZkZOajFKcG5hNCttU2lxSHkvcG5yUk9TaURGTVNtRWRHK0FDMUtndkp4bmc3YmwrbmdmcE1OYXJtQVBpamtGRWhFZEhNZ0FIRHJ0ZmY3YkJtNnZyNnd1bWdNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1Njg3MDg4CWZpbGU6U2FhU29waHktQ2VudHJvcy0xLjAuMS1NYWMtYWN0dWFsaXphY2lvbi5hcHAudGFyLmd6Ck55STZ0MGRMOS94NmNBTURldmhmN0VXakRXTm41MXFzZGdGZGN3T213aEN2VkZvOGFlSENwZ2xGVEd4ZkE3NWhYaS9taGpnN1krcE1kSi9GaEZwV0JRPT0K",
-      "url": "https://github.com/saramm1999-creator/saasophy-descargas/releases/download/v1.0.1/SaaSophy-Centros-1.0.1-Mac-actualizacion.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTdCtPeHRsZkZOanhqZ2FtcVBXUWl5TndyS2xZYlRUYU45YkUrMnA2dXFpbjZCWStNdUMySTZ0TERnb00zZTlUS2MvM1I5VlY1YUR0NEdObmZmQVJLVWdPWE5UQWpPc0F3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1Njg3MTIzCWZpbGU6U2FhU29waHktQ2VudHJvcy0xLjAuMi1NYWMtYWN0dWFsaXphY2lvbi5hcHAudGFyLmd6Cjd1dERNWWR1eFFyTUhHNTVQaDhpWS9yVkcrbGZSSEtqSnVidmlrajJiZmFLdkVnQ2xyYnA0aWtNV2JWM2xCNVkyaFFmWGo4R1pZZ05GdmpSbnE3dEFnPT0K",
+      "url": "https://github.com/saramm1999-creator/saasophy-descargas/releases/download/v1.0.1/SaaSophy-Centros-1.0.2-Mac-actualizacion.app.tar.gz"
     },
     "darwin-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTdCtPeHRsZkZOajFKcG5hNCttU2lxSHkvcG5yUk9TaURGTVNtRWRHK0FDMUtndkp4bmc3YmwrbmdmcE1OYXJtQVBpamtGRWhFZEhNZ0FIRHJ0ZmY3YkJtNnZyNnd1bWdNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1Njg3MDg4CWZpbGU6U2FhU29waHktQ2VudHJvcy0xLjAuMS1NYWMtYWN0dWFsaXphY2lvbi5hcHAudGFyLmd6Ck55STZ0MGRMOS94NmNBTURldmhmN0VXakRXTm41MXFzZGdGZGN3T213aEN2VkZvOGFlSENwZ2xGVEd4ZkE3NWhYaS9taGpnN1krcE1kSi9GaEZwV0JRPT0K",
-      "url": "https://github.com/saramm1999-creator/saasophy-descargas/releases/download/v1.0.1/SaaSophy-Centros-1.0.1-Mac-actualizacion.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTdCtPeHRsZkZOanhqZ2FtcVBXUWl5TndyS2xZYlRUYU45YkUrMnA2dXFpbjZCWStNdUMySTZ0TERnb00zZTlUS2MvM1I5VlY1YUR0NEdObmZmQVJLVWdPWE5UQWpPc0F3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1Njg3MTIzCWZpbGU6U2FhU29waHktQ2VudHJvcy0xLjAuMi1NYWMtYWN0dWFsaXphY2lvbi5hcHAudGFyLmd6Cjd1dERNWWR1eFFyTUhHNTVQaDhpWS9yVkcrbGZSSEtqSnVidmlrajJiZmFLdkVnQ2xyYnA0aWtNV2JWM2xCNVkyaFFmWGo4R1pZZ05GdmpSbnE3dEFnPT0K",
+      "url": "https://github.com/saramm1999-creator/saasophy-descargas/releases/download/v1.0.1/SaaSophy-Centros-1.0.2-Mac-actualizacion.app.tar.gz"
     },
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTdCtPeHRsZkZOai9WUTBFOVg4QXpKVC9wdHNNNkswYmZVVFM1SnptT1ZvMDhQRENpMWJvU3ZjcHI5bTQ3cGN1NGhVVUpXM0hlU1RvQU5VQTZjK2J4SHhFOTYyZ2FIWWc0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1Njg3MDg4CWZpbGU6U2FhU29waHktQ2VudHJvcy0xLjAuMS1XaW5kb3dzLWFjdHVhbGl6YWNpb24uZXhlCnBaYTlXanJkVXVyZnlIYU1VMVYyVHUyRlRmS2V4RU81MUQzaU9Nek1Tb1IvdGJ0R3MyekZ5VERlQzhkTUdkSGQraXQzbWZBT1FRZS9jRWlxZWRVQUFRPT0K",
-      "url": "https://github.com/saramm1999-creator/saasophy-descargas/releases/download/v1.0.1/SaaSophy-Centros-1.0.1-Windows-actualizacion.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTdCtPeHRsZkZOanhwMXozN2QrZnZBUnJVZ2NCRG5ZOVZ1Ykp6cnZpMUFYS2haV2ZKMlRpZ1E3dE5WVDV2b3hqcDlQRWN6RkJHTVpod1RCRmVtZk5QaFhRNDFzYVJkNUFJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1Njg3MTIyCWZpbGU6U2FhU29waHktQ2VudHJvcy0xLjAuMi1XaW5kb3dzLWFjdHVhbGl6YWNpb24uZXhlCnZkRTRxN0JBRkNXRDVJV2gxM3NZMG4vZzBmUHVMaExWamhnVVl2N1A1a1hIVm5FM2F5dnBvNUx1Z2wyZXYxM2kvd1RSZEtUSm9YNU9pRXZEZDYyekN3PT0K",
+      "url": "https://github.com/saramm1999-creator/saasophy-descargas/releases/download/v1.0.1/SaaSophy-Centros-1.0.2-Windows-actualizacion.exe"
     }
   }
 }
