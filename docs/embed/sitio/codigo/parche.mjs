@@ -18,6 +18,8 @@ cambiar(R + "public-reference/reference-markup.ts", [
 cambiar(R + "public-reference/PublicReferencePage.tsx", [
   ['import "./programas.css";\n', 'import "./programas.css";\nimport "./sitio-nuevo.css";\nimport { referenceWrapperClass } from "./sitio-nuevo";\n'],
   ['className={`sref ${page.bodyClass}`.trim()}', 'className={referenceWrapperClass(page.bodyClass)}'],
+  ['import { referenceWrapperClass } from "./sitio-nuevo";\n', 'import { referenceWrapperClass } from "./sitio-nuevo";\nimport { activarEfectos } from "./sitio-nuevo-efectos";\n'],
+  ['  if (!page) return <NotFound />;\n', '  // Efectos del diseño nuevo (aparición, contadores, chat, calculadora).\n  useEffect(() => {\n    const root = rootRef.current;\n    if (!root || page?.bodyClass !== "ssy-nuevo") return;\n    return activarEfectos(root);\n  }, [page, markup]);\n\n  if (!page) return <NotFound />;\n'],
 ]);
 cambiar(R + "App.tsx", [
   ["const RefProgramas = lazy(", "const RefCursoNuevo = lazy(() => import('@/public-reference/PublicReferencePage').then((m) => ({ default: m.makeReferenceRoute('/programa') })));\nconst RefProgramas = lazy("],
