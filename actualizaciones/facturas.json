@@ -1,19 +1,19 @@
 {
-  "version": "1.0.3",
-  "notes": "Conecta tu Holded: cada factura que leas aparece sola en Holded con su proveedor y el PDF.",
-  "pub_date": "2026-11-26T10:49:38Z",
+  "version": "1.0.4",
+  "notes": "Mejoras: nueva página de ayuda.",
+  "pub_date": "2026-11-26T12:07:03Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTdCtPeHRsZkZOaisxU2hMS1lqOXYrTjZsVCtvaUNtdS93NG55TXNXUURHMFdHYy81SlNTNGNzTlorTFVhc2lac1VDUlpjWmljWmpvV1BOWFQvUmU0aFRLMEVxZ0hvTlFVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1NjkwMTczCWZpbGU6U2FhU29waHktRmFjdHVyYXMtMS4wLjMtTWFjLWFjdHVhbGl6YWNpb24uYXBwLnRhci5negpoOE8xV2R0a3k0Y2JHQ1BNeVVLMmFDdkJlemUwbGN0dFY0dTBvN1B4NFdXdkpnT090K0psNEVNM2x5akpJTlRrWHRuV2JkUnoySFNXbk9KNENqRmRCdz09Cg==",
-      "url": "https://github.com/saramm1999-creator/saasophy-descargas/releases/download/v1.0.1/SaaSophy-Facturas-1.0.3-Mac-actualizacion.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTdCtPeHRsZkZOajI4N0R3ekJBVGtaOWNaNUlac1ArU2FKMGdKYk5LNzJOYjVOYkhGcmJwdW9JQTJVaHVUQnlNR1NCa013WWhuVUFQZG4wQ2pIQUY0Q0M1WXh4NUh2RkFNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1Njk0ODIwCWZpbGU6U2FhU29waHktRmFjdHVyYXMtMS4wLjQtTWFjLWFjdHVhbGl6YWNpb24uYXBwLnRhci5negpvVzRXdndaK3dWWWtzZmVORkRncDlSSDE1eVk3V0FqY1daYXNvSHFFS0RTdnV5SEM4aXgrRmRzZGlOTXB4aWprR0taRjlZNlRlaDZCbkRlZ3pqeWRBdz09Cg==",
+      "url": "https://github.com/saramm1999-creator/saasophy-descargas/releases/download/v1.0.1/SaaSophy-Facturas-1.0.4-Mac-actualizacion.app.tar.gz"
     },
     "darwin-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTdCtPeHRsZkZOaisxU2hMS1lqOXYrTjZsVCtvaUNtdS93NG55TXNXUURHMFdHYy81SlNTNGNzTlorTFVhc2lac1VDUlpjWmljWmpvV1BOWFQvUmU0aFRLMEVxZ0hvTlFVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1NjkwMTczCWZpbGU6U2FhU29waHktRmFjdHVyYXMtMS4wLjMtTWFjLWFjdHVhbGl6YWNpb24uYXBwLnRhci5negpoOE8xV2R0a3k0Y2JHQ1BNeVVLMmFDdkJlemUwbGN0dFY0dTBvN1B4NFdXdkpnT090K0psNEVNM2x5akpJTlRrWHRuV2JkUnoySFNXbk9KNENqRmRCdz09Cg==",
-      "url": "https://github.com/saramm1999-creator/saasophy-descargas/releases/download/v1.0.1/SaaSophy-Facturas-1.0.3-Mac-actualizacion.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTdCtPeHRsZkZOajI4N0R3ekJBVGtaOWNaNUlac1ArU2FKMGdKYk5LNzJOYjVOYkhGcmJwdW9JQTJVaHVUQnlNR1NCa013WWhuVUFQZG4wQ2pIQUY0Q0M1WXh4NUh2RkFNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1Njk0ODIwCWZpbGU6U2FhU29waHktRmFjdHVyYXMtMS4wLjQtTWFjLWFjdHVhbGl6YWNpb24uYXBwLnRhci5negpvVzRXdndaK3dWWWtzZmVORkRncDlSSDE1eVk3V0FqY1daYXNvSHFFS0RTdnV5SEM4aXgrRmRzZGlOTXB4aWprR0taRjlZNlRlaDZCbkRlZ3pqeWRBdz09Cg==",
+      "url": "https://github.com/saramm1999-creator/saasophy-descargas/releases/download/v1.0.1/SaaSophy-Facturas-1.0.4-Mac-actualizacion.app.tar.gz"
     },
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTdCtPeHRsZkZOajZua1l4bkpmK2k1ZEU4dXlyTzZOWUloUDBDejlwMU5DaUdLZUczR013MUlGaGVqNDM4TVE1VHUrdExNSTFXTE9JemU2VVBOYXRuWTV5MFZVeUxORmdVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1NjkwMTczCWZpbGU6U2FhU29waHktRmFjdHVyYXMtMS4wLjMtV2luZG93cy1hY3R1YWxpemFjaW9uLmV4ZQo5UU1YaEQvMXFMa3BvS3RibmlkeDlXVm1SMGhSNm9zUEhYKzZLdXBQSnF1cERGVjFRR2tka250YzhjQXBPbWFWWnpHZWgxY3c5NHYxZFg1U08rM2FCUT09Cg==",
-      "url": "https://github.com/saramm1999-creator/saasophy-descargas/releases/download/v1.0.1/SaaSophy-Facturas-1.0.3-Windows-actualizacion.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTdCtPeHRsZkZOai8vdkpEK1owWVNNZm9RNW9OeXhkZ0Ntd0Z3dmFqbGloQzg2YXVlRG9Cb2RYVzRNWXFaQXNVb2NSazVOQTJuWXpDWU5uMTNaOFhxSmxNanZhd0M5SFFFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1Njk0ODIwCWZpbGU6U2FhU29waHktRmFjdHVyYXMtMS4wLjQtV2luZG93cy1hY3R1YWxpemFjaW9uLmV4ZQo5MkNOSExneVNMTTEyM09UTVV5elpaQ0ZPcFFxYWw0ME5IOGFYeUVnVUNqcFkvWU9VRWhpTXVDZ2ZXWkQ2NWFha1pTazVVdTRaU0tTNFBjY2VlUWNEQT09Cg==",
+      "url": "https://github.com/saramm1999-creator/saasophy-descargas/releases/download/v1.0.1/SaaSophy-Facturas-1.0.4-Windows-actualizacion.exe"
     }
   }
 }
