@@ -1,19 +1,19 @@
 {
-  "version": "1.0.2",
-  "notes": "Prueba del sistema de actualizaciones.",
-  "pub_date": "2026-11-26T09:58:47Z",
+  "version": "1.0.3",
+  "notes": "VERI*FACTU: tus facturas se envían solas a Hacienda y llevan el código QR (actívalo en Ajustes → Hacienda).",
+  "pub_date": "2026-11-26T10:43:38Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTdCtPeHRsZkZOanhqZ2FtcVBXUWl5TndyS2xZYlRUYU45YkUrMnA2dXFpbjZCWStNdUMySTZ0TERnb00zZTlUS2MvM1I5VlY1YUR0NEdObmZmQVJLVWdPWE5UQWpPc0F3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1Njg3MTIzCWZpbGU6U2FhU29waHktQ2VudHJvcy0xLjAuMi1NYWMtYWN0dWFsaXphY2lvbi5hcHAudGFyLmd6Cjd1dERNWWR1eFFyTUhHNTVQaDhpWS9yVkcrbGZSSEtqSnVidmlrajJiZmFLdkVnQ2xyYnA0aWtNV2JWM2xCNVkyaFFmWGo4R1pZZ05GdmpSbnE3dEFnPT0K",
-      "url": "https://github.com/saramm1999-creator/saasophy-descargas/releases/download/v1.0.1/SaaSophy-Centros-1.0.2-Mac-actualizacion.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTdCtPeHRsZkZOai9DTy84OGxOSEhFRWxJWldwSjNxQ3pGckxLWXIzQ0VTQkdndmdhQjJtRHpCK0xSa1BJMEFUUVUvYlJRcTM5RFJkTHZNeHVOeFFzSFZ0S2JYVEE0Z2dVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1Njg5ODE0CWZpbGU6U2FhU29waHktQ2VudHJvcy0xLjAuMy1NYWMtYWN0dWFsaXphY2lvbi5hcHAudGFyLmd6Cm1vTHBJZDJUdHgvWHdZMVBybHhvSGQ4WjhVeTZzUGRUNDcwV0N5UWFEdkUrT3M0NitJRHBHaHd4MEV0TDVaRmlHcGdKUmtiVDh6bEl6SFR6SnU1Z0RRPT0K",
+      "url": "https://github.com/saramm1999-creator/saasophy-descargas/releases/download/v1.0.1/SaaSophy-Centros-1.0.3-Mac-actualizacion.app.tar.gz"
     },
     "darwin-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTdCtPeHRsZkZOanhqZ2FtcVBXUWl5TndyS2xZYlRUYU45YkUrMnA2dXFpbjZCWStNdUMySTZ0TERnb00zZTlUS2MvM1I5VlY1YUR0NEdObmZmQVJLVWdPWE5UQWpPc0F3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1Njg3MTIzCWZpbGU6U2FhU29waHktQ2VudHJvcy0xLjAuMi1NYWMtYWN0dWFsaXphY2lvbi5hcHAudGFyLmd6Cjd1dERNWWR1eFFyTUhHNTVQaDhpWS9yVkcrbGZSSEtqSnVidmlrajJiZmFLdkVnQ2xyYnA0aWtNV2JWM2xCNVkyaFFmWGo4R1pZZ05GdmpSbnE3dEFnPT0K",
-      "url": "https://github.com/saramm1999-creator/saasophy-descargas/releases/download/v1.0.1/SaaSophy-Centros-1.0.2-Mac-actualizacion.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTdCtPeHRsZkZOai9DTy84OGxOSEhFRWxJWldwSjNxQ3pGckxLWXIzQ0VTQkdndmdhQjJtRHpCK0xSa1BJMEFUUVUvYlJRcTM5RFJkTHZNeHVOeFFzSFZ0S2JYVEE0Z2dVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1Njg5ODE0CWZpbGU6U2FhU29waHktQ2VudHJvcy0xLjAuMy1NYWMtYWN0dWFsaXphY2lvbi5hcHAudGFyLmd6Cm1vTHBJZDJUdHgvWHdZMVBybHhvSGQ4WjhVeTZzUGRUNDcwV0N5UWFEdkUrT3M0NitJRHBHaHd4MEV0TDVaRmlHcGdKUmtiVDh6bEl6SFR6SnU1Z0RRPT0K",
+      "url": "https://github.com/saramm1999-creator/saasophy-descargas/releases/download/v1.0.1/SaaSophy-Centros-1.0.3-Mac-actualizacion.app.tar.gz"
     },
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTdCtPeHRsZkZOanhwMXozN2QrZnZBUnJVZ2NCRG5ZOVZ1Ykp6cnZpMUFYS2haV2ZKMlRpZ1E3dE5WVDV2b3hqcDlQRWN6RkJHTVpod1RCRmVtZk5QaFhRNDFzYVJkNUFJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1Njg3MTIyCWZpbGU6U2FhU29waHktQ2VudHJvcy0xLjAuMi1XaW5kb3dzLWFjdHVhbGl6YWNpb24uZXhlCnZkRTRxN0JBRkNXRDVJV2gxM3NZMG4vZzBmUHVMaExWamhnVVl2N1A1a1hIVm5FM2F5dnBvNUx1Z2wyZXYxM2kvd1RSZEtUSm9YNU9pRXZEZDYyekN3PT0K",
-      "url": "https://github.com/saramm1999-creator/saasophy-descargas/releases/download/v1.0.1/SaaSophy-Centros-1.0.2-Windows-actualizacion.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTdCtPeHRsZkZOajhTODc2akxVejkzb3Z1TzYwVUFDQloyZExyclNkZjJVbU8vTnJIMXduUGEzQ0tRTFNZNlJYRXI4Z3plSkl0VjdBcm9nK0ZkS3hYMGdHSlVKSHpOTlFRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1Njg5ODE0CWZpbGU6U2FhU29waHktQ2VudHJvcy0xLjAuMy1XaW5kb3dzLWFjdHVhbGl6YWNpb24uZXhlCkphRnI3amRRZytFbVpiYnc0RWpwR1VHdnlodU5oc2tXb3dHQnpqNi82N1ErWmVOWHhXQkVpNkJQNHhWKzI3QWNHNmMwNXZFZXJMVWU3SXlYOGxnakNRPT0K",
+      "url": "https://github.com/saramm1999-creator/saasophy-descargas/releases/download/v1.0.1/SaaSophy-Centros-1.0.3-Windows-actualizacion.exe"
     }
   }
 }
