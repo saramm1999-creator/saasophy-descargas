@@ -1,19 +1,19 @@
 {
-  "version": "1.0.1",
-  "notes": "Actualizaciones automáticas: a partir de ahora el programa se actualiza solo.",
-  "pub_date": "2026-11-26T09:57:28Z",
+  "version": "1.0.2",
+  "notes": "VERI*FACTU: tus facturas se envían solas a Hacienda y llevan el código QR (actívalo en Ajustes → Hacienda).",
+  "pub_date": "2026-11-26T10:43:58Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTdCtPeHRsZkZOai9URWZweThhUXR5QU1ZcnNma0pYcFBDeDRNUWhnakFTU3cvWFZvWUNaSEdiaXZGZXBqL0RBMDEyNm9oY0NBZi9WdE8rWEN4cit6L1FsajA3akVQWFFrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1Njg3MDQ0CWZpbGU6U2FhU29waHktVGFsbGVyLTEuMC4xLU1hYy1hY3R1YWxpemFjaW9uLmFwcC50YXIuZ3oKN1hhZkQyeWhqYk9OeU96dzJVUzhxeU1kNTBpNmgvckZBR1VpSlAzTUFPTDdjOHBUTEJRVVBBUlo0a3pHWnJzZDJkd3cwN21BS2g5SDVzZS9Cb0JXQ3c9PQo=",
-      "url": "https://github.com/saramm1999-creator/saasophy-descargas/releases/download/v1.0.1/SaaSophy-Taller-1.0.1-Mac-actualizacion.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTdCtPeHRsZkZOajhtT0RvcnJvanQxVTBDWUlFSUNTaE5Db1lNS2d4d2xHejJXRXBMYy94cU5TbkNPQ3ErdE9BNVdUaTdKdnNRM29FUHIrWUNDTk1jMDNoS1MydHV3TVFZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1Njg5ODMzCWZpbGU6U2FhU29waHktVGFsbGVyLTEuMC4yLU1hYy1hY3R1YWxpemFjaW9uLmFwcC50YXIuZ3oKQ1ZWNW9WSzcwUVd3U0lCTkY2NGg1YjV5N0VrOTR4OWVDbUVGUkhqeVBic0RHRWpzUWJGb2dLS29SOW9xL2RkUVRLcnBid1BLT0F4NGxxQWlGOWZjQXc9PQo=",
+      "url": "https://github.com/saramm1999-creator/saasophy-descargas/releases/download/v1.0.1/SaaSophy-Taller-1.0.2-Mac-actualizacion.app.tar.gz"
     },
     "darwin-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTdCtPeHRsZkZOai9URWZweThhUXR5QU1ZcnNma0pYcFBDeDRNUWhnakFTU3cvWFZvWUNaSEdiaXZGZXBqL0RBMDEyNm9oY0NBZi9WdE8rWEN4cit6L1FsajA3akVQWFFrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1Njg3MDQ0CWZpbGU6U2FhU29waHktVGFsbGVyLTEuMC4xLU1hYy1hY3R1YWxpemFjaW9uLmFwcC50YXIuZ3oKN1hhZkQyeWhqYk9OeU96dzJVUzhxeU1kNTBpNmgvckZBR1VpSlAzTUFPTDdjOHBUTEJRVVBBUlo0a3pHWnJzZDJkd3cwN21BS2g5SDVzZS9Cb0JXQ3c9PQo=",
-      "url": "https://github.com/saramm1999-creator/saasophy-descargas/releases/download/v1.0.1/SaaSophy-Taller-1.0.1-Mac-actualizacion.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTdCtPeHRsZkZOajhtT0RvcnJvanQxVTBDWUlFSUNTaE5Db1lNS2d4d2xHejJXRXBMYy94cU5TbkNPQ3ErdE9BNVdUaTdKdnNRM29FUHIrWUNDTk1jMDNoS1MydHV3TVFZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1Njg5ODMzCWZpbGU6U2FhU29waHktVGFsbGVyLTEuMC4yLU1hYy1hY3R1YWxpemFjaW9uLmFwcC50YXIuZ3oKQ1ZWNW9WSzcwUVd3U0lCTkY2NGg1YjV5N0VrOTR4OWVDbUVGUkhqeVBic0RHRWpzUWJGb2dLS29SOW9xL2RkUVRLcnBid1BLT0F4NGxxQWlGOWZjQXc9PQo=",
+      "url": "https://github.com/saramm1999-creator/saasophy-descargas/releases/download/v1.0.1/SaaSophy-Taller-1.0.2-Mac-actualizacion.app.tar.gz"
     },
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTdCtPeHRsZkZOajdCQ1IxYldkNE1uV1RZL1ZET1g0OGZKMTVjVG1Kc0tpWWMwSDBCd2RGV09OT1RObk5INEQwVFphWDZTdFJsdCtDUXRFL1g1eDVEeFNSMDJPN1p0cndRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1Njg3MDQ0CWZpbGU6U2FhU29waHktVGFsbGVyLTEuMC4xLVdpbmRvd3MtYWN0dWFsaXphY2lvbi5leGUKenlsUG0rRTloYm4wV3BrYm5kSTZJRXBPSkhEa21QVHdMbzJINmhWSStiS1lOcFdLamFUYWs3OFhRWTJhVDNZTXRPUjZvMGR0MXlVOGhleFVkYkVKRHc9PQo=",
-      "url": "https://github.com/saramm1999-creator/saasophy-descargas/releases/download/v1.0.1/SaaSophy-Taller-1.0.1-Windows-actualizacion.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTdCtPeHRsZkZOanhiOXBWYVFWd3lSSzZQL21KVEdjTy9ReWVIVVQyUzJ4cVYyT1Nxc3NkRlJsYXZabTE2aVhDcksxd3pTYjFGNFVjeGhBa1F1OE9ySGMvR1E0WjZnTUFjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1Njg5ODMzCWZpbGU6U2FhU29waHktVGFsbGVyLTEuMC4yLVdpbmRvd3MtYWN0dWFsaXphY2lvbi5leGUKa01jcDZ2VU94aUZkVUJlVlorRVFZMk0vd0Y3b0R0bEg1QWp2SFNSNFNzR1FaTFQ3SDZkSEwvc2NldW1DZ0k3L1RXcUtFVjh6QmxFRGFJalZKT0FJRFE9PQo=",
+      "url": "https://github.com/saramm1999-creator/saasophy-descargas/releases/download/v1.0.1/SaaSophy-Taller-1.0.2-Windows-actualizacion.exe"
     }
   }
 }
