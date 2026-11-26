@@ -7,6 +7,7 @@ header{padding:22px 0;border-bottom:1px solid var(--b);background:var(--p)}heade
 .logo{font-weight:800;font-size:19px;text-decoration:none;color:var(--t)}.logo span{display:inline-grid;place-items:center;width:30px;height:30px;border-radius:8px;background:var(--a);color:#fff;margin-right:8px}
 nav a{margin-left:16px;text-decoration:none;color:var(--s);font-weight:600;font-size:14px}
 .hero{padding:56px 0 30px;text-align:center}.hero h1{font-size:clamp(28px,5vw,44px);line-height:1.15;margin:0 0 14px}.hero p{color:var(--s);font-size:18px;max-width:680px;margin:0 auto}
+.prueba{border-style:dashed}figure{margin:18px 0}figure img{width:100%;border:1px solid var(--b);border-radius:12px}figcaption{font-size:13px;color:var(--s);margin-top:6px}.fotos{display:grid;grid-template-columns:repeat(auto-fit,minmax(260px,1fr));gap:14px}
 .ventajas{display:flex;flex-wrap:wrap;gap:10px;justify-content:center;margin:22px 0 0}.ventajas span{background:var(--p);border:1px solid var(--b);border-radius:99px;padding:6px 14px;font-size:14px;font-weight:600}
 .rej{display:grid;grid-template-columns:repeat(auto-fill,minmax(300px,1fr));gap:18px;padding:30px 0 60px}
 .card{background:var(--p);border:1px solid var(--b);border-radius:16px;padding:22px;display:flex;flex-direction:column;gap:10px}
