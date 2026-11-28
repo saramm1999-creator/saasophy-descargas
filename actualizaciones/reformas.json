@@ -1,0 +1,19 @@
+{
+  "version": "1.0.1",
+  "notes": "Primera versión de SaaSophy Reformas.",
+  "pub_date": "2026-11-28T14:27:38Z",
+  "platforms": {
+    "darwin-aarch64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTdCtPeHRsZkZOajFKekhuMmI5elFRTDVTN3EwL2gwK01WcVR3ZDd1VTRGWGxycHplekhjREJXSW84UWtOeFhkQmRxYXd6RWFwQmd6YWdIbEFpNHRHZ09mTUxacTViK1FjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1ODc2MDU0CWZpbGU6U2FhU29waHktUmVmb3JtYXMtMS4wLjEtTWFjLWFjdHVhbGl6YWNpb24uYXBwLnRhci5negphb0Jmdjk5S2I2YklGYnVjUDY0ZFRXYXJYaUs1SE5YeVBpWjVyWlM1eEVaZlF2Q2lYTDRrUEs4ZkFtdkhLN1QzMDVEdWRObUVtNTBwUUNBSVl0czNBdz09Cg==",
+      "url": "https://github.com/saramm1999-creator/saasophy-descargas/releases/download/v1.0.1/SaaSophy-Reformas-1.0.1-Mac-actualizacion.app.tar.gz"
+    },
+    "darwin-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTdCtPeHRsZkZOajFKekhuMmI5elFRTDVTN3EwL2gwK01WcVR3ZDd1VTRGWGxycHplekhjREJXSW84UWtOeFhkQmRxYXd6RWFwQmd6YWdIbEFpNHRHZ09mTUxacTViK1FjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1ODc2MDU0CWZpbGU6U2FhU29waHktUmVmb3JtYXMtMS4wLjEtTWFjLWFjdHVhbGl6YWNpb24uYXBwLnRhci5negphb0Jmdjk5S2I2YklGYnVjUDY0ZFRXYXJYaUs1SE5YeVBpWjVyWlM1eEVaZlF2Q2lYTDRrUEs4ZkFtdkhLN1QzMDVEdWRObUVtNTBwUUNBSVl0czNBdz09Cg==",
+      "url": "https://github.com/saramm1999-creator/saasophy-descargas/releases/download/v1.0.1/SaaSophy-Reformas-1.0.1-Mac-actualizacion.app.tar.gz"
+    },
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTdCtPeHRsZkZOajVYZjN3WGsrVW5udkc3OGdnSzFtaWp1SzNyK0xJak9tYy9yUWt2WFdyN0kwSTFlamliYjZReitlRHNndWRGbmRIdi9Ra0QwR3RQVUJPeHVVRTRsK2dNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1ODc2MDUzCWZpbGU6U2FhU29waHktUmVmb3JtYXMtMS4wLjEtV2luZG93cy1hY3R1YWxpemFjaW9uLmV4ZQpWTWFjU2FZMTgwSjA5SnloMG1vMGNxVHRtcTNRVkd4Sm0wY0xDd254V0NHOWJlNUttLy9IZ2ZRVnl2N3V6NjIySlZxS2dkeGRpL0VVWXI1WTYxeTlBdz09Cg==",
+      "url": "https://github.com/saramm1999-creator/saasophy-descargas/releases/download/v1.0.1/SaaSophy-Reformas-1.0.1-Windows-actualizacion.exe"
+    }
+  }
+}
