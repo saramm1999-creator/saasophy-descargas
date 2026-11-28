@@ -1,0 +1,19 @@
+{
+  "version": "1.0.0",
+  "notes": "Primera versión de SaaSophy Concesionario.",
+  "pub_date": "2026-11-28T14:27:49Z",
+  "platforms": {
+    "darwin-aarch64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTdCtPeHRsZkZOajlJMWJjNU9GYVF4VXU2UHpYRUtxYmIrYW9kNVNySyt1WWZxQXNGM0p5NHA5SkJFWlNWWXIrUlVGRVpkN1Y4djU1d3E0ZzduTklicllVbVFmUWJ0SEFZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1ODc2MDY1CWZpbGU6U2FhU29waHktQ29uY2VzaW9uYXJpby0xLjAuMC1NYWMtYWN0dWFsaXphY2lvbi5hcHAudGFyLmd6Cm5OamlDbVJmWmxvangrcXNzdVBhcWVwNnFrQXhZZXEza3R5SFlObDhyWTVLaFMxZ3hTbStsNC9hblVwNC9EWnMrQUl4L00rU29sVzNoMnpReUlPSEFnPT0K",
+      "url": "https://github.com/saramm1999-creator/saasophy-descargas/releases/download/v1.0.1/SaaSophy-Concesionario-1.0.0-Mac-actualizacion.app.tar.gz"
+    },
+    "darwin-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTdCtPeHRsZkZOajlJMWJjNU9GYVF4VXU2UHpYRUtxYmIrYW9kNVNySyt1WWZxQXNGM0p5NHA5SkJFWlNWWXIrUlVGRVpkN1Y4djU1d3E0ZzduTklicllVbVFmUWJ0SEFZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1ODc2MDY1CWZpbGU6U2FhU29waHktQ29uY2VzaW9uYXJpby0xLjAuMC1NYWMtYWN0dWFsaXphY2lvbi5hcHAudGFyLmd6Cm5OamlDbVJmWmxvangrcXNzdVBhcWVwNnFrQXhZZXEza3R5SFlObDhyWTVLaFMxZ3hTbStsNC9hblVwNC9EWnMrQUl4L00rU29sVzNoMnpReUlPSEFnPT0K",
+      "url": "https://github.com/saramm1999-creator/saasophy-descargas/releases/download/v1.0.1/SaaSophy-Concesionario-1.0.0-Mac-actualizacion.app.tar.gz"
+    },
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTdCtPeHRsZkZOai90S3F6TTRwaWhnTFB6ZmhtUzVmRWorbmY0MUJJckMwT1BvcWdhcmppdnlqeHRzRS9WWWdyTEZJQ1NKeGdpc2FYaE9pQkwvZHFkbGJWdlVGQ3dMV0FZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1ODc2MDY1CWZpbGU6U2FhU29waHktQ29uY2VzaW9uYXJpby0xLjAuMC1XaW5kb3dzLWFjdHVhbGl6YWNpb24uZXhlCmFQdnZXMXJoSHlTVEFRMjUvVE1zM1FiV01JZHBtbjdtQTdwbG9BUmRYZklKL1FUUk9qNStOVmxFaHQ3R1NHMWZNODd3VGFySmswUk80WCs5NXBRSER3PT0K",
+      "url": "https://github.com/saramm1999-creator/saasophy-descargas/releases/download/v1.0.1/SaaSophy-Concesionario-1.0.0-Windows-actualizacion.exe"
+    }
+  }
+}
