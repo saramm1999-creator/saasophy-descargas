@@ -1,0 +1,19 @@
+{
+  "version": "1.0.0",
+  "notes": "Primera versión de SaaSophy Alojamientos.",
+  "pub_date": "2026-11-28T14:28:01Z",
+  "platforms": {
+    "darwin-aarch64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTdCtPeHRsZkZOajV2M0JtMTBQMFA1Q1oxdEIyemxlRDdoa0grM2c0Rzl1S2pDMGhEMnY3aEYzc3ErOG1MMXU5YTd2dnorT2MrdDlleDVtZkd0OXZ4RS9kRUN1WTdFR3d3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1ODc2MDc4CWZpbGU6U2FhU29waHktQWxvamFtaWVudG9zLTEuMC4wLU1hYy1hY3R1YWxpemFjaW9uLmFwcC50YXIuZ3oKYVdXbkJ5R3pyaXJkQk5kOWdEY1MxZmU4ZUtRR2lkeGw2WTV4ci85Vnd4eGZNYjN1N1NiMlRWdk5rZmEwQmJWRGxTSnpFdXkxR2gxME1TY25YRWp2QUE9PQo=",
+      "url": "https://github.com/saramm1999-creator/saasophy-descargas/releases/download/v1.0.1/SaaSophy-Alojamientos-1.0.0-Mac-actualizacion.app.tar.gz"
+    },
+    "darwin-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTdCtPeHRsZkZOajV2M0JtMTBQMFA1Q1oxdEIyemxlRDdoa0grM2c0Rzl1S2pDMGhEMnY3aEYzc3ErOG1MMXU5YTd2dnorT2MrdDlleDVtZkd0OXZ4RS9kRUN1WTdFR3d3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1ODc2MDc4CWZpbGU6U2FhU29waHktQWxvamFtaWVudG9zLTEuMC4wLU1hYy1hY3R1YWxpemFjaW9uLmFwcC50YXIuZ3oKYVdXbkJ5R3pyaXJkQk5kOWdEY1MxZmU4ZUtRR2lkeGw2WTV4ci85Vnd4eGZNYjN1N1NiMlRWdk5rZmEwQmJWRGxTSnpFdXkxR2gxME1TY25YRWp2QUE9PQo=",
+      "url": "https://github.com/saramm1999-creator/saasophy-descargas/releases/download/v1.0.1/SaaSophy-Alojamientos-1.0.0-Mac-actualizacion.app.tar.gz"
+    },
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTdCtPeHRsZkZOajA4TExJQU16ZXZqS1A2UjRYRHFFYzFLbzNVdDRmZFpXVm83MVloQmtaU0cwUWNONjhJbkhTL1ZTTVpjT05jL3l1ZnFCSVVRdXBta29zN2dXTzNmQVFvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1ODc2MDc3CWZpbGU6U2FhU29waHktQWxvamFtaWVudG9zLTEuMC4wLVdpbmRvd3MtYWN0dWFsaXphY2lvbi5leGUKOUpZeEE1QWs5K3JRMTdWNnpZbG9wT3RVaGUwR3pzcTRvbWtaN1d2TDBxMmF5VHhoeHpyREw2dHdDdUNIekp2QnRVL040NnBYalBCeEZFOGIveVEwRGc9PQo=",
+      "url": "https://github.com/saramm1999-creator/saasophy-descargas/releases/download/v1.0.1/SaaSophy-Alojamientos-1.0.0-Windows-actualizacion.exe"
+    }
+  }
+}
