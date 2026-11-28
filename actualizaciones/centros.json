@@ -1,19 +1,19 @@
 {
-  "version": "1.0.6",
-  "notes": "Mejoras de seguridad: copias cifradas con contraseña y restauración, bloqueo del PIN, prueba gratis y botón de soporte.",
-  "pub_date": "2026-11-26T12:32:29Z",
+  "version": "1.0.8",
+  "notes": "Nuevos programas: Fisio, Psicología, Nutrición, Veterinaria y Fit (gimnasios y estudios con clases, cuotas y remesas SEPA).",
+  "pub_date": "2026-11-28T14:27:25Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTdCtPeHRsZkZOajZuUDVFaXhtNW5MUld6VXZHR01TdU5oMUdJb3ZUVWNwcERjYjVSL3RRYnFEU2VtU3BIK1lPUGwrZVZzd3ZOT3FQN05kcVc3emxEMWhGM1cwVElFbEFNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1Njk2MzQ1CWZpbGU6U2FhU29waHktQ2VudHJvcy0xLjAuNi1NYWMtYWN0dWFsaXphY2lvbi5hcHAudGFyLmd6Ck13S1VtdWdnV2YyTENCRSs3aUtBZy8vNUpscE9uajN0emRkZTUxMi9US1JWTjc5VUdjdk1oa0Vhc0hHNjZ4b2UxUHdWL2xYRzVHVzYwQlhzTjJrakJRPT0K",
-      "url": "https://github.com/saramm1999-creator/saasophy-descargas/releases/download/v1.0.1/SaaSophy-Centros-1.0.6-Mac-actualizacion.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTdCtPeHRsZkZOajZ1cmRvN0dyc1J3Mk1LdlZMbG9kbGNMWEtyQmd2Y01hZXIwVUJEd0VGbEROdUtoUThwWkJpQ2xqZzZ2dW9YWkkzbjUzcXlBbW5TOTF3R3hlR3RHRkFNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1ODc2MDQxCWZpbGU6U2FhU29waHktQ2VudHJvcy0xLjAuOC1NYWMtYWN0dWFsaXphY2lvbi5hcHAudGFyLmd6CkhtbFdoRWsydGxyeWRZM3hmcUVuNEhDOFc1TUdTWGEvM1hhR0taOFBsb0hJUjZ1Yng1Rmw1Szg1UzdrZDNCaUg3Y3hDcTY4YzlaTkJOVFQ3Ky85K0N3PT0K",
+      "url": "https://github.com/saramm1999-creator/saasophy-descargas/releases/download/v1.0.1/SaaSophy-Centros-1.0.8-Mac-actualizacion.app.tar.gz"
     },
     "darwin-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTdCtPeHRsZkZOajZuUDVFaXhtNW5MUld6VXZHR01TdU5oMUdJb3ZUVWNwcERjYjVSL3RRYnFEU2VtU3BIK1lPUGwrZVZzd3ZOT3FQN05kcVc3emxEMWhGM1cwVElFbEFNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1Njk2MzQ1CWZpbGU6U2FhU29waHktQ2VudHJvcy0xLjAuNi1NYWMtYWN0dWFsaXphY2lvbi5hcHAudGFyLmd6Ck13S1VtdWdnV2YyTENCRSs3aUtBZy8vNUpscE9uajN0emRkZTUxMi9US1JWTjc5VUdjdk1oa0Vhc0hHNjZ4b2UxUHdWL2xYRzVHVzYwQlhzTjJrakJRPT0K",
-      "url": "https://github.com/saramm1999-creator/saasophy-descargas/releases/download/v1.0.1/SaaSophy-Centros-1.0.6-Mac-actualizacion.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTdCtPeHRsZkZOajZ1cmRvN0dyc1J3Mk1LdlZMbG9kbGNMWEtyQmd2Y01hZXIwVUJEd0VGbEROdUtoUThwWkJpQ2xqZzZ2dW9YWkkzbjUzcXlBbW5TOTF3R3hlR3RHRkFNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1ODc2MDQxCWZpbGU6U2FhU29waHktQ2VudHJvcy0xLjAuOC1NYWMtYWN0dWFsaXphY2lvbi5hcHAudGFyLmd6CkhtbFdoRWsydGxyeWRZM3hmcUVuNEhDOFc1TUdTWGEvM1hhR0taOFBsb0hJUjZ1Yng1Rmw1Szg1UzdrZDNCaUg3Y3hDcTY4YzlaTkJOVFQ3Ky85K0N3PT0K",
+      "url": "https://github.com/saramm1999-creator/saasophy-descargas/releases/download/v1.0.1/SaaSophy-Centros-1.0.8-Mac-actualizacion.app.tar.gz"
     },
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTdCtPeHRsZkZOajBEaHg3MjZQNzM1dXdjb2VWQTdaYjlqOVdZTGlTaDg1ZFVVSTlhWVZXa2NoTHJoMTRYVUJUR2JjNmZkRWQzOUdDZjZCVmV1ZXhjclVnSDhvSDZqSUEwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1Njk2MzQ1CWZpbGU6U2FhU29waHktQ2VudHJvcy0xLjAuNi1XaW5kb3dzLWFjdHVhbGl6YWNpb24uZXhlCnVzUHZ4QXdxeW1NQTdiaVZKUlROUmhpZmd5RnRTd1FDRkZpNEVTL2dLdlNVOGlmeVZUaHNTYWIwbW9aS005NVBjWC84TVQvd0tNeVB3VWNlbVY3eUNRPT0K",
-      "url": "https://github.com/saramm1999-creator/saasophy-descargas/releases/download/v1.0.1/SaaSophy-Centros-1.0.6-Windows-actualizacion.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTdCtPeHRsZkZOajUvOUZwZlRoRVVpV2RQM0MrcnIwcEJpNHZTaFZrMEdQREtSVjNhYXplRjJCMERxSGN5NkR5blhZenJGQmZ6TEhKcmdaRjBSVVRPUzkzY1pDVlV5NGdNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1ODc2MDQwCWZpbGU6U2FhU29waHktQ2VudHJvcy0xLjAuOC1XaW5kb3dzLWFjdHVhbGl6YWNpb24uZXhlCmdrOHZPZzBJNWVNMnBObkZYUlgzWkdqOHcwZnNQT0NQZ0dVMTVIcWxYUzlBRWs3cWh0VklCY1hOUndrQ001NlVzeVdjMTVNcGRLWDd3R1hFL1RVa0NBPT0K",
+      "url": "https://github.com/saramm1999-creator/saasophy-descargas/releases/download/v1.0.1/SaaSophy-Centros-1.0.8-Windows-actualizacion.exe"
     }
   }
 }
